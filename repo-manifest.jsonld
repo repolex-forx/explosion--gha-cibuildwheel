@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/explosion/gha-cibuildwheel/commit/2ade48ac7d4fed55e9f24f73eddd8f280722a2f8",
       "git:hexsha": "2ade48ac7d4fed55e9f24f73eddd8f280722a2f8",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T09:13:34.813263+00:00"
     }
   ]
 }
