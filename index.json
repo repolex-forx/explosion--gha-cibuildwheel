@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "gha-cibuildwheel",
+  "versions": [
+    {
+      "commit": "2ade48ac7d4fed55e9f24f73eddd8f280722a2f8",
+      "tag": "",
+      "parsed_at": "2026-11-08T09:13:34.813715+00:00"
+    }
+  ]
+}
