@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1.0",
+  "org": "explosion",
+  "repo": "gha-cibuildwheel",
+  "versions": [
+    {
+      "commit": "2ade48ac7d4fed55e9f24f73eddd8f280722a2f8",
+      "parsed_at": "2026-11-08T09:11:13.884993+00:00",
+      "filetree": "filetree/2ade48ac7d4fed55e9f24f73eddd8f280722a2f8.nq.gz",
+      "blobs": [
+        "blob/14da42b00358564dc770eab35a8d2b7bca567f5a.nq.gz",
+        "blob/01f6b40ef73b57144670fd92a48933d6805fa507.nq.gz",
+        "blob/13d70059f2aa4418243a0bfd30bced916a1a48e7.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
